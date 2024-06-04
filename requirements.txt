@@ -1,0 +1,14 @@
+chromadb
+langchain
+langchain_openai 
+langchain_core
+langchainhub
+langchain-objectbox
+langchain_community
+langserve
+pypdf
+PyPDF2
+python-dotenv
+sentence_transformers
+streamlit
+time
